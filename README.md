@@ -1,5 +1,3 @@
-
-
 ### Date created
 This project and its README file was created in May 2023.
 
@@ -15,5 +13,6 @@ I also wrote a script that takes in raw input to create an interactive experienc
 There is a .py file which contains the codes used for this project.
 
 ### Credits
-I would lke to give credit to Udacity for the Programming for Data Science with Python course.
+I would like to give credit to Udacity for the Programming for Data Science with Python course.
+I would also like to give credit to Kevin Stratvert for his Youtube tutorial on Git and GitHub.
 
