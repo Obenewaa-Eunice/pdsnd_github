@@ -10,7 +10,7 @@ I wrote code to import the data and answer interesting questions about it by com
 I also wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
-There is a .py file which contains the codes used for this project.
+There are two .py files which contains the codes used for this project.
 
 ### Credits
 I would like to give credit to Udacity for the Programming for Data Science with Python course.
