@@ -15,7 +15,7 @@ from tabulate import tabulate
 
 def get_filters(city_data):
     """
-    Specify a city, month, and day to analyze.
+    Here you have to specify a city, month, and day to analyze.
 
     Returns:
         (str) city - name of the city to analyze
